@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Ravi Shankar",
+    "batch_year": 1987,
+    "branch": "Computer Science",
+    "current": {
+      "role": "Chief Technology Officer",
+      "company": "InnovaTech Systems",
+      "location": "Bengaluru, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/ravishankar"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Anita Mehra",
+    "batch_year": 1987,
+    "branch": "Electronics and Communication",
+    "current": {
+      "role": "Professor",
+      "company": "IIT Delhi",
+      "location": "New Delhi, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/anita-mehra"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sanjay Patel",
+    "batch_year": 1987,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "Director of Engineering",
+      "company": "Patel Manufacturing Ltd.",
+      "location": "Ahmedabad, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/sanjaypatel"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Neena Gupta",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "Senior Project Consultant",
+      "company": "Global Infrastructure Group",
+      "location": "Mumbai, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/neenagupta"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Arun Iyer",
+    "batch_year": 1987,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "Entrepreneur",
+      "company": "Iyer Energy Solutions",
+      "location": "Chennai, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/aruniyer"
+    }
+  }
+]

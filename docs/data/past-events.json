@@ -1,0 +1,20 @@
+[
+  {
+    "id": "reunion-2024",
+    "title": "Annual Grand Reunion 2024",
+    "date": "2024-12-15",
+    "location": "MNNIT Campus, Prayagraj",
+    "description": "A nostalgic evening where over 500 alumni gathered to celebrate the diamond jubilee.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "gallery_link": "/gallery/reunion-2024"
+  },
+  {
+    "id": "ncr-meetup-2024",
+    "title": "NCR Chapter Winter Meet",
+    "date": "2024-11-02",
+    "location": "Gurugram, Haryana",
+    "description": "Professional networking dinner focused on entrepreneurship and startup mentoring.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "gallery_link": "/gallery/ncr-meet-2024"
+  }
+]

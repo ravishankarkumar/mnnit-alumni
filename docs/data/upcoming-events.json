@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tech-summit-2026",
+    "title": "Alumni Tech Summit 2026",
+    "date": "2026-03-15",
+    "location": "MNNIT Campus / Hybrid",
+    "description": "A deep dive into AI and Sustainability with keynote speakers from our 1995 batch.",
+    "image": "https://picsum.photos/800/400?random=1",
+    "reg_link": "https://forms.gle/sample"
+  },
+  {
+    "id": "summer-picnic",
+    "title": "NCR Chapter Family Picnic",
+    "date": "2026-06-10",
+    "location": "Lodhi Gardens, New Delhi",
+    "description": "A casual gathering for alumni and their families. Games, food, and networking.",
+    "image": "https://picsum.photos/800/400?random=2",
+    "reg_link": "https://forms.gle/sample"
+  }
+]

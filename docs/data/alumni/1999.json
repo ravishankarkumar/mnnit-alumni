@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Nair",
+    "batch_year": 1999,
+    "branch": "Computer Science",
+    "current": {
+      "role": "Vice President, Engineering",
+      "company": "NextWave Software",
+      "location": "Bengaluru, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/priyanair"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rahul Khanna",
+    "batch_year": 1999,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "Plant Head",
+      "company": "Khanna Auto Components",
+      "location": "Pune, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/rahulkhanna"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sneha Deshpande",
+    "batch_year": 1999,
+    "branch": "Electronics and Communication",
+    "current": {
+      "role": "Senior Design Architect",
+      "company": "SiliconWorks",
+      "location": "Hyderabad, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/snehadeshpande"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Amit Choudhary",
+    "batch_year": 1999,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "Founder & CEO",
+      "company": "Choudhary Constructions",
+      "location": "Jaipur, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/amitchoudhary"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Neha Arora",
+    "batch_year": 1999,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "Principal Scientist",
+      "company": "National Renewable Energy Lab",
+      "location": "New Delhi, India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/nehaarora"
+    }
+  }
+]
