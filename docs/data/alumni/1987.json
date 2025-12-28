@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Ravi Shankar",
+    "name": "Sumit Yadav",
     "batch_year": 1987,
     "branch": "Computer Science",
     "current": {
@@ -10,7 +10,7 @@
       "location": "Bengaluru, India"
     },
     "links": {
-      "linkedin": "https://linkedin.com/in/ravishankar"
+      "linkedin": "https://linkedin.com/in/sumityadav"
     }
   },
   {
